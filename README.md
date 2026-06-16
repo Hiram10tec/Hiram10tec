@@ -94,6 +94,7 @@ const Hiram = {
         <img src="https://img.shields.io/badge/MVVM-9B59B6?style=flat-square"/>
         <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square"/>
       </p>
+      <a href="https://github.com/Academia-Mexicana-de-Wushu-Queretaro/iOS">View Project →</a>
     </td>
   </tr>
   <tr>
