@@ -8,14 +8,13 @@
 
 </div>
 
-
 ---
 
 ## 🧑‍💻 About Me
 
 ```ts
 const Hiram = {
-  location : "San Luis Potosi, México 🇲🇽",
+  location : "San Luis Potosí, México 🇲🇽",
   education : "B.S. Computer Science & Technology @ Tecnológico de Monterrey",
   exchange  : "University of Twente — Aug 2025 · Feb 2026 🇳🇱",
   role      : "Full Stack Developer & Software Architect",
@@ -129,8 +128,8 @@ const Hiram = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hiram10tec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiram10tec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs"/>
+<img height="165" src="https://github-readme-stats-rho-eight-62.vercel.app/api?username=Hiram10tec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
+<img height="165" src="https://github-readme-stats-rho-eight-62.vercel.app/api/top-langs/?username=Hiram10tec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs"/>
 
 </div>
 
